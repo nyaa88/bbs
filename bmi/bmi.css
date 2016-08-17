@@ -1,0 +1,94 @@
+body{
+	background: #CDF7A1;
+}
+
+#Container{
+	width: 700px;
+  margin:30px auto;
+  text-align: center;
+	background:#ffffff;	
+	font-family: "メイリオ";
+}
+
+h1{
+	margin:0;
+	background: #76B338;
+  color: #fff;
+}
+
+#con{
+	margin:10px;
+	display: inline-flex;
+	align-items: center;
+}
+
+table{
+	border: 1px dashed #000;
+
+	margin: 5px;
+	padding: 5px;
+	}
+
+
+td{
+	padding-left:5px;
+	text-align: left;}
+
+td.item1{
+ 	width: 40px;
+ }
+
+td.item2{
+	width: 80px;
+}
+
+
+#pig{
+	text-align: left;
+}
+#pig img{
+	float: left;
+	margin:25px 25px 20px 60px;
+	}
+#tx{
+	width:625px;
+	padding: 5px;
+	margin:auto;
+	font-size: 0.8em;
+	border: 2px dashed #F5B090;
+	}
+
+.bluetbl{
+	width:215px;
+	margin:50px 10px;
+	padding:0;
+	float: right;
+	font-size:0.8em;
+	border: none;
+	background: #DEFFBC;
+}
+tr.bluetr{
+	background: #AAEF63;
+	}
+.bluetbl td{
+	background: #fff;
+	border:solid 1px #DEFFBC;
+}
+
+.mator{
+	/*clear:both;*/
+	position:relative;
+	/*margin:auto;*/
+	width:450px;
+	height:440px;
+	background:url(pie-chart.jpg);
+	background-repeat: no-repeat;
+	font-size: 5em;
+}
+
+
+.helsemator{
+	position: absolute;
+	bottom: 88px;
+	left: 132px;
+	}

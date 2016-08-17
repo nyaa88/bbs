@@ -1,0 +1,59 @@
+body{
+	font-family: "メイリオ";
+}
+
+#Container{
+	margin:auto;
+	padding:30px;
+	width:700px;
+	border:solid 1px #000;
+}
+
+h1{
+	color:#fff;
+	background: #F5B090;
+	padding:3px;
+}
+
+h2{
+	background: #AAEF63;
+	padding:3px;
+}
+
+p{
+	text-align: center;
+}
+
+a{margin:auto;}
+
+a#imgbox{background: url(img/omikuji.png);
+display: block;
+width:223px;
+height: 284px;
+
+}
+
+
+a#imgbox:active{ /*クリックした瞬間*/
+	background: url(img/omikuji2.png);
+	display: block;
+	width:223px;
+	height: 284px;
+}
+
+.kek_img{
+	float: left;
+}
+
+.kek{
+	width:340px;
+	margin: 30px;
+	padding: 30px;
+	float: left;
+	border: solid 1px #AAEF63;
+}
+
+.kekk{
+	padding: 30px 0 0;
+	clear: both;
+}

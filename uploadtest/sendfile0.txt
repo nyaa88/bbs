@@ -1,0 +1,2 @@
+'user2',MD5('test'),'usernick2','usernick2@mail.com','','2016-07-08','','','usernick2'
+'user1',MD5('test'),'usernick1','usernick1@mail.com','','2016-07-08','','','usernick1'
